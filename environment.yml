@@ -1,0 +1,22 @@
+name: fair_ad
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyyaml
+  - tqdm
+  - joblib
+  - openpyxl
+  - xlrd
+  - pyarrow
+  - pytest
+  - pip:
+      - torch

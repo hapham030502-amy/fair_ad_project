@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pyyaml
+tqdm
+joblib
+openpyxl
+xlrd
+pyarrow
+pytest
+torch
+python-docxs
