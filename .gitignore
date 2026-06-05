@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Raw and processed data
+data/
+*.xls
+*.xlsx
+*.csv
+*.parquet
+*.npz
+*.joblib
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# Generated reports/results
+results/
+reproducibility/
+
+# Word/PDF generated files
+*.docx
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
